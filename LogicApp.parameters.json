@@ -6,10 +6,10 @@
       "value": "LogicAppCheck"
     },
     "azurequeues_1_Connection_Name": {
-      "value": "LogicAppCheckqueue"
+      "value": "logicappqueue"
     },
     "azurequeues_1_Connection_DisplayName": {
-      "value": "storageaccount"
+      "value": "logicappqueue"
     },
     "azurequeues_1_storageaccount": {
       "value": "storageforlogicapp12"
