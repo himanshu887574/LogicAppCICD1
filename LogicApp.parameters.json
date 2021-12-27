@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "logicAppName": {
-      "value": "ActivateJobDev"
+      "value": "LogicAppCheck"
     },
     "azurequeues_1_Connection_Name": {
-      "value": "azurequeues"
+      "value": "LogicAppCheckqueue"
     },
     "azurequeues_1_Connection_DisplayName": {
       "value": "storageaccount"
