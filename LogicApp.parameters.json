@@ -12,10 +12,10 @@
       "value": "storageaccount"
     },
     "azurequeues_1_storageaccount": {
-      "value": "storageaccount"
+      "value": "storageforlogicapp12"
     },
     "azurequeues_1_sharedkey": {
-      "value": "xxxxxxxxxxxxxxx"
+      "value": "CuyBc/9H0SwGqvBQ/wpRsBQ81vAApYhjldEZsjY0E02MFbXtUnZn/rpCAfo1qvqGVmbWjkupOQGRaCpLyO6Uhg=="
     }
   }
 }
