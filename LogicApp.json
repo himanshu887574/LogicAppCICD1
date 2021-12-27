@@ -103,7 +103,7 @@
                 },
                 "method": "post",
                 "body": "activemassage",
-                "path": "/v2/storageAccounts/@{encodeURIComponent(encodeURIComponent('AccountNameFromSettings'))}/queues/@{encodeURIComponent('aureqeue')}/messages"
+                "path": "/v2/storageAccounts/@{encodeURIComponent(encodeURIComponent('AccountNameFromSettings'))}/queues/@{encodeURIComponent('logicappqueue')}/messages"
               },
               "runAfter": {}
             }
